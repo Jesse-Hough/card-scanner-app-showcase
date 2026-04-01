@@ -53,10 +53,19 @@ Users can create accounts, manage personal collections, and share wishlists with
 
 ## Demo
 
-Video walkthrough (desktop and mobile, including authentication and scanning workflow):  
-[INSERT VIDEO LINK]
+### Desktop Walkthrough
 
-Live application:  
+<p align="center">
+  <a href="https://www.loom.com/share/4c72080c67a14671ade1bf0028b20577">
+    <img src="https://cdn.loom.com/sessions/thumbnails/4c72080c67a14671ade1bf0028b20577-with-play.gif" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  Click to watch full demo
+</p>
+
+Live application  
 [INSERT LIVE LINK]
 
 ## Screenshots
