@@ -58,7 +58,29 @@ Live application:
 ## Screenshots
 
 Desktop
-![Desktop](./screenshots/desktop.png)
+
+Home Page
+<img width="2547" height="1254" alt="image" src="https://github.com/user-attachments/assets/3f09a516-ee05-4019-b1b6-8e94e62c79d7" />
+
+Login Page
+<img width="2556" height="1260" alt="image" src="https://github.com/user-attachments/assets/a4417429-ac73-4e3a-9937-690786a93e00" />
+
+Dashboard
+<img width="2547" height="1267" alt="image" src="https://github.com/user-attachments/assets/2ccd1d6a-ab17-432e-958d-7bf06decfccf" />
+
+Dashboard Edit Enabled
+<img width="2549" height="1264" alt="image" src="https://github.com/user-attachments/assets/00a5c463-1695-4fa7-92da-5fc32a7f631c" />
+
+Add Collectible Page
+<img width="2557" height="1246" alt="image" src="https://github.com/user-attachments/assets/68f1fe79-7867-4161-90dd-56f5a884dc92" />
+
+Search Collectible Page
+<img width="2554" height="1261" alt="image" src="https://github.com/user-attachments/assets/356d33fb-1b7d-44f6-81ed-63f005c34a4c" />
+
+Edit Collectible Page
+<img width="2554" height="1263" alt="image" src="https://github.com/user-attachments/assets/6ad89925-344a-4554-aca5-c655bc986c6d" />
+
+
 
 Mobile scanning
 ![Mobile](./screenshots/mobile.png)
