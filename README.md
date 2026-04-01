@@ -21,6 +21,10 @@ Users can create accounts, manage personal collections, and share wishlists with
 
 ## Features
 
+- View other users collections or keep them completely private
+- Message other users asking to purchase or trade collectibles
+- Join groups dedicated to the items you know and love
+- Host storefronts to sell your products to other users
 - Search across large aggregated datasets of collectible items
 - Image-based scanning using OCR to extract identifying information
 - Matching pipeline to resolve scanned data to known items
@@ -57,7 +61,7 @@ Live application:
 
 ## Screenshots
 
-Desktop
+### Desktop
 
 Home Page
 <img width="2547" height="1254" alt="image" src="https://github.com/user-attachments/assets/3f09a516-ee05-4019-b1b6-8e94e62c79d7" />
@@ -80,10 +84,24 @@ Search Collectible Page
 Edit Collectible Page
 <img width="2554" height="1263" alt="image" src="https://github.com/user-attachments/assets/6ad89925-344a-4554-aca5-c655bc986c6d" />
 
+Edit Collections page
+<img width="2549" height="1255" alt="image" src="https://github.com/user-attachments/assets/f5c5b160-573d-4ce3-87d6-04a2e8313de9" />
+
+Profile Page
+<img width="2547" height="1261" alt="image" src="https://github.com/user-attachments/assets/b1705fdb-56e4-4163-894a-e0a0e7e847a3" />
+
+### Mobile scanning
+
+Dashboard
+<img width="292.5" height="633" alt="image2" src="https://github.com/user-attachments/assets/464f92df-800d-41cb-aeba-09ffa4ef0be0" />
+
+Mobile AI(Google OCR) Scan Page
+<img width="292.5" height="633" alt="image0" src="https://github.com/user-attachments/assets/c3d30b2c-ce86-42be-97e2-1c3b30e7ad73" />
+
+Scan Results Page
+<img width="292.5" height="633" alt="image1" src="https://github.com/user-attachments/assets/1d34feb2-b374-4a56-a22a-7b3be62b84f4" />
 
 
-Mobile scanning
-![Mobile](./screenshots/mobile.png)
 
 ## Design Considerations
 
