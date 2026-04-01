@@ -57,7 +57,7 @@ Users can create accounts, manage personal collections, and share wishlists with
 
 <p align="center">
   <a href="https://www.loom.com/share/4c72080c67a14671ade1bf0028b20577">
-    <img src="https://cdn.loom.com/sessions/thumbnails/4c72080c67a14671ade1bf0028b20577-with-play.gif" width="700"/>
+    <img src="https://cdn.loom.com/sessions/thumbnails/4c72080c67a14671ade1bf0028b20577-4647de829630964b-full-play.gif" width="700"/>
   </a>
 </p>
 
